@@ -2,3 +2,14 @@
 
 This is my bonus project for my Computer Graphics and Visualisation course at KTH.
 
+# Illumination models on spheres
+
+![](allThree.gif)
+
+# Cook-Torrance
+
+![](cookTorrance.gif)
+
+# Phong Vs Blinn-Phong
+
+![](phongBlinnPhong.gif)
